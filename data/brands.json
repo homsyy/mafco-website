@@ -1,0 +1,396 @@
+[
+  {
+    "slug": "prestone",
+    "name": "Prestone",
+    "logo": "prestone.svg",
+    "exclusive": true,
+    "category": "Coolants & fluids",
+    "origin": "USA",
+    "since": "1927",
+    "url": "https://www.prestone.com",
+    "site": "prestone.com",
+    "summary": "Antifreeze and coolant from the brand that introduced it to American drivers.",
+    "description": "Prestone makes antifreeze and coolant, along with brake fluid, washer fluid, de-icers and cooling-system maintenance products for cars, heavy-duty vehicles and EVs.",
+    "ranges": [
+      "Antifreeze + coolant",
+      "Performance chemicals",
+      "Ice protection",
+      "Washer fluid",
+      "System maintenance & repair"
+    ],
+    "facts": [
+      "Introduced the first non-flammable ethylene glycol antifreeze in 1927.",
+      "Describes itself as North America's no. 1 provider of antifreeze and coolant."
+    ]
+  },
+  {
+    "slug": "bizol",
+    "name": "BIZOL",
+    "logo": "bizol.png",
+    "exclusive": true,
+    "category": "Motor oils & additives",
+    "origin": "Germany",
+    "since": "1998",
+    "url": "https://bizol.com",
+    "site": "bizol.com",
+    "summary": "German motor oils, transmission fluids and professional-grade additives.",
+    "description": "BIZOL is a Berlin-born brand of motor oils, gear and transmission fluids, additives, technical sprays and service fluids for cars, motorcycles and trucks.",
+    "ranges": [
+      "Car motor oils",
+      "Motorcycle motor oils",
+      "Truck & bus motor oils",
+      "Gear oils & ATF",
+      "Additives",
+      "Technical sprays",
+      "Coolants & brake fluids"
+    ],
+    "facts": [
+      "Sold in more than 70 countries.",
+      "Won the Red Dot Design Award in 2014 and the iF Design Award in 2015 for its packaging."
+    ]
+  },
+  {
+    "slug": "redex",
+    "name": "Redex",
+    "logo": "redex.svg",
+    "exclusive": true,
+    "category": "Fuel additives",
+    "origin": "United Kingdom",
+    "since": "1922",
+    "url": "https://www.redexadditives.com",
+    "site": "redexadditives.com",
+    "summary": "Petrol and diesel fuel-system additives, trusted by British drivers since 1922.",
+    "description": "Redex makes petrol and diesel fuel-system additives, including injector cleaners, along with oil treatments and fuel cans.",
+    "ranges": [
+      "Petrol additives",
+      "Diesel additives",
+      "Oil",
+      "Fuel cans"
+    ],
+    "facts": [
+      "Has been keeping drivers on the road since 1922.",
+      "Known in Britain for its “penny a shot” dispensers on filling-station forecourts."
+    ]
+  },
+  {
+    "slug": "holts",
+    "name": "Holts",
+    "logo": "holts.svg",
+    "exclusive": true,
+    "category": "Repair & maintenance",
+    "origin": "United Kingdom",
+    "since": "1919",
+    "url": "https://www.holtsauto.com",
+    "site": "holtsauto.com",
+    "summary": "Car maintenance and emergency repair products. Problem solved.",
+    "description": "Holts makes car maintenance and emergency repair products: maintenance sprays, exhaust and radiator leak repair, tyre repair, screen wash, de-icers and cleaning products.",
+    "ranges": [
+      "Vehicle maintenance sprays",
+      "Exhaust repairs",
+      "Radiator leak repair",
+      "Tyre repair",
+      "Car cleaning",
+      "Screen wash"
+    ],
+    "facts": [
+      "Solving car problems since 1919, when Douglas Holt first started selling car parts.",
+      "Develops, tests and manufactures in the UK for export around the world."
+    ]
+  },
+  {
+    "slug": "simoniz",
+    "name": "Simoniz",
+    "logo": "simoniz.png",
+    "exclusive": true,
+    "category": "Car care",
+    "origin": "United Kingdom",
+    "since": "1910",
+    "url": "https://www.simoniz.uk",
+    "site": "simoniz.uk",
+    "summary": "Car cleaning and care with more than a century of shine behind it.",
+    "description": "Simoniz makes car cleaning and care products: shampoos, waxes and polishes, glass, wheel and trim cleaners, and interior care.",
+    "ranges": [
+      "Car washing",
+      "Wax & polish",
+      "Glass",
+      "Wheels, tyres & trim",
+      "Interior",
+      "Paint & maintenance"
+    ],
+    "facts": [
+      "Founded in 1910. By the 1930s, “to Simoniz” had become a verb for polishing a car to a high shine.",
+      "Today its products are developed in Manchester, England."
+    ]
+  },
+  {
+    "slug": "adams-polishes",
+    "name": "Adam's Polishes",
+    "logo": "adams-polishes.png",
+    "exclusive": true,
+    "tall": true,
+    "category": "Detailing",
+    "origin": "USA",
+    "since": "2000",
+    "url": "https://adamspolishes.com",
+    "site": "adamspolishes.com",
+    "summary": "Premium American detailing: washes, polishes, ceramic and graphene coatings.",
+    "description": "Adam's Polishes makes car detailing chemicals and accessories for exterior and interior care: washes, polishes, waxes, ceramic and graphene coatings, towels and tools.",
+    "ranges": [
+      "Exterior",
+      "Interior",
+      "Ceramic & graphene coatings",
+      "Garage",
+      "Accessories"
+    ],
+    "facts": [
+      "Founded by Adam Pitale in California in 2000, and now based in Colorado."
+    ]
+  },
+  {
+    "slug": "nilos",
+    "name": "NILOS",
+    "logo": "nilos.svg",
+    "exclusive": true,
+    "category": "Vulcanising & repair materials",
+    "origin": "Germany",
+    "since": "1926",
+    "url": "https://nilos.de",
+    "site": "nilos.de",
+    "summary": "German-made adhesives, vulcanising materials and patches for conveyor belt repair.",
+    "description": "NILOS produces adhesives, vulcanising materials and repair patches for conveyor belts and rubber repair, for both hot and cold vulcanisation.",
+    "ranges": [
+      "Cold bonding adhesives",
+      "Hot vulcanising materials",
+      "Repair patches",
+      "Conveyor belt splicing kits",
+      "Cleaning solutions"
+    ],
+    "facts": [
+      "Based in Hilden, Germany, and active since 1926.",
+      "Products are made in Germany."
+    ]
+  },
+  {
+    "slug": "dura-vulc",
+    "name": "Dura-Vulc",
+    "logo": "dura-vulc.jpg",
+    "exclusive": true,
+    "category": "Tyre repair",
+    "origin": "USA",
+    "since": "2014",
+    "url": "https://www.doriandrake.com/automotive-group/tools-equipment-and-auto-repair-products/dura-vulc/",
+    "site": "doriandrake.com",
+    "summary": "A complete tyre repair line: patches, strings, cements and tools.",
+    "description": "Dura-Vulc is a full line of tyre repair materials: patches and repair units, string inserts, cements and chemicals, and repair tools.",
+    "ranges": [
+      "Tubeless tyre repair strings",
+      "Vulcanising inserts",
+      "Stem-patch combination repairs",
+      "Radial, bias-ply & universal repair units",
+      "Cements & liquids",
+      "Kits, tools & accessories"
+    ],
+    "facts": [
+      "Launched in 2014 by Dorian Drake International of New York.",
+      "Its promise: quality without compromise."
+    ]
+  },
+  {
+    "slug": "kaco",
+    "name": "KACO",
+    "logo": "kaco.png",
+    "exclusive": true,
+    "category": "Sealing systems",
+    "origin": "Germany",
+    "since": "1914",
+    "url": "https://kaco.de/en/",
+    "site": "kaco.de",
+    "summary": "German sealing systems: oil seals, shaft seals and gaskets.",
+    "description": "KACO develops sealing systems for automotive and industrial use, including radial shaft seals, static seals and gaskets, with a dedicated aftermarket programme.",
+    "ranges": [
+      "Dynamic seals",
+      "Static seals",
+      "Pressure compensation elements",
+      "Encoders",
+      "Shaft grounding rings"
+    ],
+    "facts": [
+      "Founded in 1914, with more than a century of sealing expertise.",
+      "An original-equipment supplier to the automotive industry."
+    ]
+  },
+  {
+    "slug": "mte-thomson",
+    "name": "MTE-THOMSON",
+    "logo": "mte-thomson.png",
+    "exclusive": true,
+    "tall": true,
+    "category": "Thermostats & sensors",
+    "origin": "Brazil",
+    "since": "1957",
+    "url": "https://mte-thomson.com/en/",
+    "site": "mte-thomson.com",
+    "summary": "Thermostats and engine-management sensors. Temperature and emissions under control.",
+    "description": "MTE-THOMSON manufactures engine temperature and engine-management parts: coolant thermostats, temperature sensors and switches, oxygen sensors, and MAP, TPS and rotation sensors.",
+    "ranges": [
+      "Engine coolant thermostats",
+      "Temperature sensors & senders",
+      "Fan switches",
+      "Oxygen sensors",
+      "MAP & TPS sensors",
+      "Rotation sensors (CKP, CMP, VSS, ABS)"
+    ],
+    "facts": [
+      "Began in 1957, as Brazil's own automobile industry was getting started."
+    ]
+  },
+  {
+    "slug": "totachi",
+    "name": "TOTACHI",
+    "logo": "totachi.svg",
+    "exclusive": false,
+    "category": "Lubricants & consumables",
+    "origin": "Japan",
+    "since": "1998",
+    "url": "https://totachi.com",
+    "site": "totachi.com",
+    "summary": "Motor oils, fluids and engine consumables from Japan.",
+    "description": "TOTACHI offers motor oils, lubricants and special fluids from Japan, alongside automotive filters, brake pads, wiper blades, coolants and batteries.",
+    "ranges": [
+      "Lubricants & fluids",
+      "Automotive filters",
+      "Brake pads",
+      "Wiper blades",
+      "Coolants",
+      "Batteries",
+      "Additives & aerosols"
+    ],
+    "facts": [
+      "Founded in 1998 by a group of chemical engineers in Hokkaido, Japan.",
+      "Distributed in more than thirty markets worldwide."
+    ]
+  },
+  {
+    "slug": "veedol",
+    "name": "Veedol",
+    "logo": "veedol.png",
+    "exclusive": false,
+    "category": "Lubricants",
+    "origin": "USA",
+    "since": "1913",
+    "url": "https://www.veedol.com",
+    "site": "veedol.com",
+    "summary": "The professional's choice in motor oil for over a century.",
+    "description": "Veedol covers engine oils for passenger cars, motorcycles and commercial vehicles, plus gear and transmission oils, greases and specialities.",
+    "ranges": [
+      "Passenger car motor oils",
+      "Diesel engine oils",
+      "Automatic transmission & gear oils",
+      "Hydraulic oils",
+      "Grease",
+      "Specialities"
+    ],
+    "facts": [
+      "Created in the USA in 1913 by Tide Water Associated Oil.",
+      "According to the brand, it was the first engine oil chosen by Henry Ford for the Model T.",
+      "Marketed in over 70 countries."
+    ]
+  },
+  {
+    "slug": "duckhams",
+    "name": "Duckhams",
+    "logo": "duckhams.svg",
+    "exclusive": false,
+    "category": "Motor oil",
+    "origin": "United Kingdom",
+    "since": "1899",
+    "url": "https://www.duckhams.com",
+    "site": "duckhams.com",
+    "summary": "The original British motor oil, since 1899.",
+    "description": "Duckhams makes engine oils for modern cars, classic cars and motorcycles, plus brake and clutch fluid, gear oils and transmission fluids.",
+    "ranges": [
+      "Classic oils",
+      "Passenger car oils",
+      "Motorcycle oils",
+      "Ancillaries"
+    ],
+    "facts": [
+      "Founded in London in 1899 by Alexander Duckham.",
+      "According to the brand, it launched Europe's first multigrade motor oil, Duckhams Q20-50, in 1951."
+    ]
+  },
+  {
+    "slug": "lubegard",
+    "name": "LUBEGARD",
+    "logo": "lubegard.png",
+    "exclusive": false,
+    "category": "Transmission additives",
+    "origin": "USA",
+    "since": "",
+    "url": "https://www.lubegard.com",
+    "site": "lubegard.com",
+    "summary": "Transmission additives and fluids relied on by professional workshops.",
+    "description": "LUBEGARD makes transmission fluid additives, transmission and power-steering fluids, and additives for engines, cooling systems and gears.",
+    "ranges": [
+      "ATF protectants",
+      "Instant Shudder Fixx",
+      "COMPLETE fluids (ATF, CVT, DCT, power steering)",
+      "Kool-It cooling system",
+      "Engine oil & fuel system",
+      "Heavy duty"
+    ],
+    "facts": [
+      "Built on LXE (liquid wax ester) chemistry, developed as a renewable replacement for sperm whale oil.",
+      "Made in the USA by International Lubricants, Inc., with more than 40 years in the business."
+    ]
+  },
+  {
+    "slug": "emarat",
+    "name": "Emarat",
+    "logo": "emarat.svg",
+    "exclusive": false,
+    "tall": true,
+    "category": "Lubricants",
+    "origin": "United Arab Emirates",
+    "since": "1981",
+    "url": "https://www.emarat.ae/commercial/lubricants.html",
+    "site": "emarat.ae",
+    "summary": "Engine oils, industrial lubricants and greases made in the UAE.",
+    "description": "Emarat lubricants cover petrol and diesel engine oils, motorcycle and marine oils, hydraulic, gear, transmission and industrial oils, greases, coolants and brake fluids.",
+    "ranges": [
+      "Petrol engine oils",
+      "Diesel engine oils",
+      "2T & 4T motorcycle oils",
+      "Gear & transmission oils",
+      "Hydraulic & industrial oils",
+      "Greases, coolants & brake fluids"
+    ],
+    "facts": [
+      "Emirates General Petroleum Corporation (Emarat) was established in the UAE in 1981.",
+      "Its lubricants are manufactured in Jebel Ali, UAE, and exported to the Gulf, Africa and Asia."
+    ]
+  },
+  {
+    "slug": "rema-tip-top",
+    "name": "REMA TIP TOP",
+    "logo": "rema-tip-top.svg",
+    "exclusive": false,
+    "category": "Tyre repair",
+    "origin": "Germany",
+    "since": "1923",
+    "url": "https://rema-tiptop.com",
+    "site": "rema-tiptop.com",
+    "summary": "Tyre repair systems from the German specialist: patches, materials, tools and equipment.",
+    "description": "REMA TIP TOP makes tyre repair systems: repair patches and materials, tools and vulcanising equipment for almost every type of tyre and damage.",
+    "ranges": [
+      "Tyre repair materials",
+      "Repair patches",
+      "Tools",
+      "Vulcanising equipment"
+    ],
+    "facts": [
+      "Founded in 1923 by Otto and Willy Gruber. The TIP TOP brand name dates from 1938.",
+      "Describes itself as the world's leading manufacturer of tyre repair systems, represented in more than 180 countries."
+    ]
+  }
+]
