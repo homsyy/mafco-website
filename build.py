@@ -51,7 +51,10 @@ def page(path, title, desc, body, active="", cls=""):
 <meta property="og:description" content="{e(desc)}">
 <meta property="og:type" content="website">
 <meta property="og:image" content="{SITE['url']}/assets/img/share.png">
+<link rel="icon" href="{r}favicon.ico" sizes="48x48">
 <link rel="icon" href="{r}assets/favicon.svg" type="image/svg+xml">
+<link rel="icon" href="{r}assets/favicon-32.png" type="image/png" sizes="32x32">
+<link rel="apple-touch-icon" href="{r}assets/apple-touch-icon.png">
 <link rel="preload" href="{r}assets/fonts/jost-latin-700-normal.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="stylesheet" href="{r}style.css">
 </head>
@@ -385,7 +388,7 @@ page("404.html", "Page not found | MAFCO", "This page does not exist.",
 
 # ---------------------------------------------------------------- STATIC FILES
 shutil.copytree(ROOT / "src/assets", OUT / "assets", dirs_exist_ok=True)
-for f in ("style.css", "site.js"):
+for f in ("style.css", "site.js", "favicon.ico"):
     shutil.copy(ROOT / "src" / f, OUT / f)
 # Set "use_custom_domain": true in data/site.json once the domain's DNS points to GitHub Pages.
 if SITE.get("use_custom_domain"):

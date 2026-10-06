@@ -64,8 +64,8 @@ p{max-width:62ch}
 @media (min-width:75rem){.road path{stroke-width:.85}.road .road-dot{stroke-width:4}}
 @media (prefers-reduced-motion:no-preference){
   .hero .road path{animation:drive 2.6s cubic-bezier(.3,.1,.2,1) .15s both}
-  .hero .road .road-dot{animation:dot 11s linear 2.75s infinite backwards}
-  @keyframes dot{from{stroke-dashoffset:0}to{stroke-dashoffset:-1}}
+  .hero .road .road-dot{animation:dot 26s linear 2.75s infinite backwards}
+  @keyframes dot{0%{stroke-dashoffset:0}78%,100%{stroke-dashoffset:-1}}
   @keyframes drive{from{stroke-dashoffset:1}to{stroke-dashoffset:0}}
 }
 .facts{display:grid;grid-template-columns:repeat(4,1fr);gap:2rem clamp(1.5rem,4vw,3.5rem);padding-block:clamp(2rem,4vw,3rem) clamp(3rem,6vw,5rem)}
