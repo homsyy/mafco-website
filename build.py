@@ -25,7 +25,8 @@ def roadline(cls="road"):
     path = re.search(r"<path [^>]*/>", svg).group(0)
     path = re.sub(r'stroke="[^"]*"', 'stroke="currentColor"', path)
     path = path.replace("<path ", '<path pathLength="1" ')
-    return f'<svg class="{cls}" viewBox="0 617 595.28 102" preserveAspectRatio="none" aria-hidden="true">{path}</svg>'
+    dot = path.replace("<path ", '<path class="road-dot" ', 1)
+    return f'<svg class="{cls}" viewBox="0 617 595.28 102" preserveAspectRatio="none" aria-hidden="true">{path}{dot}</svg>'
 
 def gears():
     return (ROOT / "src/gears.svg").read_text()

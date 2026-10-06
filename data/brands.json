@@ -392,5 +392,57 @@
       "Founded in 1923 by Otto and Willy Gruber. The TIP TOP brand name dates from 1938.",
       "Describes itself as the world's leading manufacturer of tyre repair systems, represented in more than 180 countries."
     ]
+  },
+  {
+    "slug": "eurolub",
+    "name": "EUROLUB",
+    "logo": "eurolub.svg",
+    "exclusive": false,
+    "tall": true,
+    "category": "Lubricants & winter chemicals",
+    "origin": "Germany",
+    "since": "1985",
+    "url": "https://eurolub.com/en/",
+    "site": "eurolub.com",
+    "summary": "German lubricants, additives and winter chemicals, from Bavaria to the world.",
+    "description": "EUROLUB makes engine oils, gear and transmission oils, industrial lubricants, additives, car care and winter chemicals at its plant in Eching, near Munich.",
+    "ranges": [
+      "Engine oils",
+      "Gear & automatic transmission oils",
+      "Brake fluids",
+      "Industrial lubricants & hydraulic oils",
+      "Additives & car care",
+      "Winter chemicals"
+    ],
+    "facts": [
+      "A range of more than 750 products, made in Germany.",
+      "Active in over 90 countries worldwide."
+    ]
+  },
+  {
+    "slug": "baseus",
+    "name": "Baseus",
+    "logo": "baseus.png",
+    "exclusive": false,
+    "tall": true,
+    "category": "Car accessories & charging",
+    "origin": "China",
+    "since": "",
+    "url": "https://www.baseus.com",
+    "site": "baseus.com",
+    "summary": "Car chargers, car vacuum cleaners and everyday charging accessories.",
+    "description": "Baseus makes consumer electronics and accessories: car chargers and car vacuum cleaners, power banks, chargers, cables, hubs and earbuds.",
+    "ranges": [
+      "Car chargers",
+      "Car vacuum cleaners",
+      "Power banks",
+      "Chargers & cables",
+      "Hubs & docks",
+      "Earbuds & headphones"
+    ],
+    "facts": [
+      "Its motto: Practical. Reliable. Base on User.",
+      "More than a decade of focus on consumer electronics."
+    ]
   }
 ]
